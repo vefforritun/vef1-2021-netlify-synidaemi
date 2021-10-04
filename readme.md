@@ -1,4 +1,4 @@
-# Sass verkefni
+# Sass verkefni á Netlify
 
 `npm install` keyrt til að setja upp öll tól.
 
